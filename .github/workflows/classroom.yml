@@ -18,7 +18,7 @@ jobs:
       uses: classroom-resources/autograding-command-grader@v1
       with:
         test-name: Adivinhar Numero
-        setup-command: npm
+        setup-command: npm install
         command: npx jest adivinharNumero.test.js
         timeout: 10
         max-score: 1
