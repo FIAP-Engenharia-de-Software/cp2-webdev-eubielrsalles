@@ -11,6 +11,7 @@
 
 function verificarPalavra(frase, palavraBusca) {
   // TODO: implementar função
+
 }
 
 //NÃO REMOVA O CÓDIGO ABAIXO
